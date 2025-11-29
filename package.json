@@ -1,0 +1,23 @@
+{
+  "name": "001-servidor-de-monitoramento-de-tempo",
+  "version": "1.0.0",
+  "description": "Instalação e configuração do ambiente Node.js, Express e ferramentas de desenvolvimento. Introdução ao roteamento (rotas e métodos HTTP) para Back-End.",
+  "homepage": "https://github.com/roberto-mazor/001-Servidor-de-Monitoramento-de-Tempo#readme",
+  "bugs": {
+    "url": "https://github.com/roberto-mazor/001-Servidor-de-Monitoramento-de-Tempo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberto-mazor/001-Servidor-de-Monitoramento-de-Tempo.git"
+  },
+  "license": "ISC",
+  "author": "Roberto Mazor",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
